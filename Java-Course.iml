@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/07-forLoop/out" />
       <excludeFolder url="file://$MODULE_DIR$/08-whileLoop/out" />
       <excludeFolder url="file://$MODULE_DIR$/10-arrays/out" />
+      <excludeFolder url="file://$MODULE_DIR$/11-recapDemo2/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
